@@ -8,13 +8,14 @@
 - Package manager - `npm`
 - Containerization - `Docker + compose`
 - State management - `Redux Toolkit`
-- Fetching - `Axios`
+- Data Fetching - `SWR + Axios`
 - Utility styling library - `Tailwind`
 - Component styling library - `PrimeReact`
 - Routing - `React Router`
 - Schema validation - `Yup`
 - Linting & Formatting - `Eslint`
 - Sort imports - `sort-imports`
+- Backend service - `Hasura GraphQL`
 
 ### Usage:
 
